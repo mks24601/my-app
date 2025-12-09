@@ -1,3 +1,3 @@
 def hello():
-return "Hello from the new login page!"
+  return "Hello from the new login page!"
 print(hello())
